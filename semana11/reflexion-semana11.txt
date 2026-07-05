@@ -1,0 +1,13 @@
+Una plataforma de participación ciudadana necesita una base de datos para guardar información de forma organizada y persistente.
+
+La autenticación de usuarios permite saber quién participa y proteger acciones importantes dentro del sistema.
+
+Proteger la información es fundamental para evitar riesgos de privacidad y uso indebido de los datos de la comunidad.
+
+Sin estas medidas, una plataforma puede generar desconfianza o afectar a las personas que participan.
+
+Además, la trazabilidad permite revisar qué acciones se han realizado y cuándo.
+
+Esto fortalece la transparencia, la seguridad y la confianza en los procesos comunitarios.
+
+Una plataforma responsable no solo debe funcionar técnicamente, sino también cuidar a quienes la usan.
