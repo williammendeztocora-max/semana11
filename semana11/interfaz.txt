@@ -1,0 +1,9 @@
+La interfaz de la plataforma sería sencilla y fácil de usar.
+
+Tendría un formulario para crear una nueva causa comunitaria con campos como título y descripción.
+
+También mostraría una lista de causas disponibles para que las personas puedan conocerlas.
+
+Cada causa tendría un botón para apoyarla y un contador que muestre la cantidad de apoyos recibidos.
+
+La interfaz no debe mostrar información privada de los usuarios y debe priorizar claridad y accesibilidad.
